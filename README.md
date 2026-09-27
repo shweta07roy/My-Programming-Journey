@@ -10,9 +10,8 @@
 - Python
 - APIs & Backend Development
 ## My Goals
-Build strong programming and problem-solving skills
-Create real world projects
-Get internship and industry experience
+Build strong programming and problem-solving skills,
+Create real world projects,
 To become a software engineer at a top tech company
 ## Tech Stack
 - C++
